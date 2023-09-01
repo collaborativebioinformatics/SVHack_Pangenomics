@@ -9,7 +9,7 @@ In large-scale population genomics research, the single standard reference genom
 
 - Pan-Genome Research Tool Kit (PGR-TK) enabling analyses of complex pangenome structural and haplotype variation at multiple scales, which provides detailed structure and analysis on complex genomic regions which couldn’t be analyzed before.
 
-- We are aimed to construct a database of high variation risk regions in human genomic sequences with corresponding indexes. 
+- We aim to construct a database of high variation risk regions in human genomic sequences with corresponding indexes. 
 
 
 
