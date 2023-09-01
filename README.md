@@ -89,4 +89,4 @@ FastANI- Jain, C., Rodriguez-R, L.M., Phillippy, A.M. et al. High throughput ANI
 
 ## Contributor
 - Yidong Zhang- Conceptualization, Text Writing, Figure Drawing.
-- Muhammad Yasir Ateeque- Presentation. 
+- Muhammad Yasir Ateeque- Conceptualization, Presentation. 
