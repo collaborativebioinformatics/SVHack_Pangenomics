@@ -7,7 +7,7 @@ Pan-genomics is the sum of all genomic information within a species, covering mo
 
 In large-scale population genomics research, the single standard reference genome model has inherent limitations, especially in the fields of human genomic analysis, while a graph representing many genome assemblies at once have been employed as the powerful tool for pan genomic analysis, as it provides an approach for visualization and complicated structural variations. Also, graph genomics can be adopted to representation of linear or non-linear genomic structures, new presentation method for variations has been provided. Toolkits for graph genomes generation has been proposed for various applications, including PGR-TK, PGGB, PanGenie, Giraffe method and so on. 
 
--Pan-Genome Research Tool Kit (PGR-TK) enabling analyses of complex pangenome structural and haplotype variation at multiple scales, which provides detailed structure and analysis on complex genomic regions which couldn’t be analyzed before.
+- Pan-Genome Research Tool Kit (PGR-TK) enabling analyses of complex pangenome structural and haplotype variation at multiple scales, which provides detailed structure and analysis on complex genomic regions which couldn’t be analyzed before.
 
 - We are aimed to construct a database of high variation risk regions in human genomic sequences with corresponding indexes. 
 
