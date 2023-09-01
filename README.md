@@ -39,11 +39,15 @@ In large-scale population genomics research, the single standard reference genom
 ![image](https://github.com/collaborativebioinformatics/SVHack_Pangenomics/blob/main/Images/6.PNG)
 
 ### Why PGR-TK?
-- Quick analysis. --<font color="Blue"> Quick results receipt</font>
+- Quick analysis. Not computation-intensive. --<font color="Blue"> Quick results receipt</font>
 - Detailed analysis and visualization of gene map-graph. –-<font color="Blue">Accurate and detailed results</font>
 - Scripts can be integrated on the server, just need to input data. –-<font color="Blue">Convenient procedure for users</font>
 ## Tools Adopted
 PGR-TK- Chin, CS., Behera, S., Khalak, A. et al. Multiscale analysis of pangenomes enables improved representation of genomic diversity for repetitive and clinically relevant genes. Nat Methods 20, 1213–1221 (2023). https://doi.org/10.1038/s41592-023-01914-y
+        
+        
+        
+        
         
         
         
@@ -72,8 +76,12 @@ SnpEFF- Cingolani P, Platts A, Wang le L, Coon M, Nguyen T, Wang L, Land SJ, Lu 
         
         
         
+        
+        
 
 FastANI- Jain, C., Rodriguez-R, L.M., Phillippy, A.M. et al. High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries. Nat Commun 9, 5114 (2018). https://doi.org/10.1038/s41467-018-07641-9
+        
+        
         
         
         
