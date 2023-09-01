@@ -12,10 +12,10 @@
 ### Database establishment
 1. Input a series of Human pan genome research consortium data set
 2. Use tools to figure out high variation risk regions.
+3. Record the regions in the database.
+4. Establish the index and classification of regions (e.g. The variation type, the position…)
+5. That's the Database!
 ![image](https://github.com/collaborativebioinformatics/SVHack_Pangenomics/blob/main/Images/workflow1.PNG)
-3.  Record the regions in the database.
-4. Establish the index and classification of regions (e.g. The species, the gene, the relevant disease phenotype…)
-5. Finish
 ![image](https://github.com/collaborativebioinformatics/SVHack_Pangenomics/blob/main/Images/workflow2.PNG)
 
 ### Query and Analysis
@@ -29,4 +29,12 @@
 - Quick analysis. --<font color="Blue"> Quick results receipt</font>
 - Detailed analysis and visualization of gene map-graph. –-<font color="Blue">Accurate and detailed results</font>
 - Scripts can be integrated on the server, just need to input data. –-<font color="Blue">Convenient procedure for users</font>
+## Tools Adopted
+PGR-TK- Chin, CS., Behera, S., Khalak, A. et al. Multiscale analysis of pangenomes enables improved representation of genomic diversity for repetitive and clinically relevant genes. Nat Methods 20, 1213–1221 (2023). https://doi.org/10.1038/s41592-023-01914-y
 
+SnpEFF- Cingolani P, Platts A, Wang le L, Coon M, Nguyen T, Wang L, Land SJ, Lu X, Ruden DM. Fly (Austin).A program for annotating and predicting the effects of single nucleotide polymorphisms, SnpEff: SNPs in the genome of Drosophila melanogaster strain w1118; iso-2; iso-3.,  2012 Apr-Jun;6(2):80-92. PMID: 22728672
+
+FastANI- Jain, C., Rodriguez-R, L.M., Phillippy, A.M. et al. High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries. Nat Commun 9, 5114 (2018). https://doi.org/10.1038/s41467-018-07641-9
+
+## Contributor
+Yidong Zhang- Conceptualization 
