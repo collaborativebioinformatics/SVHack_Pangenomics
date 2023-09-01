@@ -12,16 +12,18 @@
 ### Database establishment
 1. Input a series of Human pan genome research consortium data set
 2. Use tools to figure out high variation risk regions.
+![image](https://github.com/collaborativebioinformatics/SVHack_Pangenomics/blob/main/Images/workflow1.PNG)
 3.  Record the regions in the database.
 4. Establish the index and classification of regions (e.g. The species, the gene, the relevant disease phenotype…)
 5. Finish
-
+![image](https://github.com/collaborativebioinformatics/SVHack_Pangenomics/blob/main/Images/workflow2.PNG)
 
 ### Query and Analysis
 1. Input sequence data.
 2. analyze via PGR-TK.
 3. Compare the similarity of specific regions in input sequence with high variation risk regions in database.
 4. Return analysis results and similar high variation risk regions.
+![image](https://github.com/collaborativebioinformatics/SVHack_Pangenomics/blob/main/Images/workflow3.PNG)
 
 ### Why PGR-TK?
 - Quick analysis. --<font color="Blue"> Quick results receipt</font>
