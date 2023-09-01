@@ -1,7 +1,13 @@
 # SVHack_Pangenomics
 
 ## Intro
-- In large-scale population genomics research, the single standard reference genome model has inherent limitations, especially in the fields of human genomic analysis. Pan-Genome Research Tool Kit (PGR-TK) enabling analyses of complex pangenome structural and haplotype variation at multiple scales, which provides detailed structure and analysis on complex genomic regions which couldn’t be analyzed before.
+Genomics is the foundation for understanding the biological characteristics, evolution, and human genetic diseases of species. Since the launch of the Human Genome Project, millions of human genomes have been sequenced, and the cost of short read long DNA sequencing has significantly decreased. However, there is still some basic information in the genome that needs to be explored.
+
+Pan-genomics is the sum of all genomic information within a species, covering more genetic diversity than a single reference genome, which is helpful for population research. Not only focusing on common core gene sets in all individuals, pan genomics also includes some accessory genes not shared. Due to the complexity and diversity of pangenomes, more advanced tools are currently needed for analysis.
+
+In large-scale population genomics research, the single standard reference genome model has inherent limitations, especially in the fields of human genomic analysis, while a graph representing many genome assemblies at once have been employed as the powerful tool for pan genomic analysis, as it provides an approach for visualization and complicated structural variations. Also, graph genomics can be adopted to representation of linear or non-linear genomic structures, new presentation method for variations has been provided. Toolkits for graph genomes generation has been proposed for various applications, including PGR-TK, PGGB, PanGenie, Giraffe method and so on. 
+
+-Pan-Genome Research Tool Kit (PGR-TK) enabling analyses of complex pangenome structural and haplotype variation at multiple scales, which provides detailed structure and analysis on complex genomic regions which couldn’t be analyzed before.
 
 - We are aimed to construct a database of high variation risk regions in human genomic sequences with corresponding indexes. 
 
@@ -38,6 +44,8 @@
 - Scripts can be integrated on the server, just need to input data. –-<font color="Blue">Convenient procedure for users</font>
 ## Tools Adopted
 PGR-TK- Chin, CS., Behera, S., Khalak, A. et al. Multiscale analysis of pangenomes enables improved representation of genomic diversity for repetitive and clinically relevant genes. Nat Methods 20, 1213–1221 (2023). https://doi.org/10.1038/s41592-023-01914-y
+        
+        
         
         
         
